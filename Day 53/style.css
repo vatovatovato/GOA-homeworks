@@ -1,0 +1,18 @@
+div.wavering-container {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+}
+
+div.color-container {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    
+}
